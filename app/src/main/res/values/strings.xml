@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PedraPapelTesoura</string>
+    <string name="jogada_do_computador">jogada do computador</string>
+    <string name="resultado">resultado</string>
+    <string name="jogada_do_computador_1">jogada do computador 1</string>
+    <string name="jogada_do_computador_2">jogada do computador 2</string>
+</resources>
